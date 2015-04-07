@@ -20,6 +20,6 @@ public class Trial {
         // nya nya nya
         
         //anything
-     
+        // What is your favourite colour?
     }
 }
