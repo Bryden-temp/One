@@ -30,6 +30,7 @@ public class Trial {
         // i have 27 (victor)
         
         // Equation: 27 /9* *10- -2- -4
+        //So its 24?
     }
     
 }
