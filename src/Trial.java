@@ -27,5 +27,7 @@ public class Trial {
         //I cant pull anything-bryden
         //I dont think im allowed to edit the file this way but i have the last one, -4. -Bryden
         //DINNA: I have /9*
+        
+        // Equation: 27 /9* *10- -2- -4
     }
 }
